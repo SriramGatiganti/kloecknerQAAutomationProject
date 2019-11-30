@@ -5,7 +5,7 @@
     <classes>
       <class name="kloeckner.TestCases.VerificationOfAddingMembers">
         <methods>
-          <include name="VerificationofAddingMembersToCard"/>
+          <include name="VerificationofAddedMemberatCardAndBoard"/>
           <include name="tearDown"/>
           <include name="setUp"/>
         </methods>

@@ -2,70 +2,70 @@
 <testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2019-11-30T17:00:20 GMT" name="Kloeckner trello TestCases Suite" finished-at="2019-11-30T17:05:34 GMT" duration-ms="314075">
+  <suite started-at="2019-11-30T18:34:54 GMT" name="Kloeckner trello TestCases Suite" finished-at="2019-11-30T18:39:32 GMT" duration-ms="277997">
     <groups>
     </groups>
-    <test started-at="2019-11-30T17:00:20 GMT" name="Kloeckner trello TestCases" finished-at="2019-11-30T17:05:34 GMT" duration-ms="314075">
+    <test started-at="2019-11-30T18:34:54 GMT" name="Kloeckner trello TestCases" finished-at="2019-11-30T18:39:32 GMT" duration-ms="277997">
       <class name="kloeckner.TestCases.VerificationOfAddingMembers">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:kloeckner.TestCases.VerificationOfAddingMembers@3c72f59f]" started-at="2019-11-30T17:02:37 GMT" name="setUp" finished-at="2019-11-30T17:02:50 GMT" duration-ms="12669" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:kloeckner.TestCases.VerificationOfAddingMembers@d706f19]" started-at="2019-11-30T18:36:49 GMT" name="setUp" finished-at="2019-11-30T18:36:59 GMT" duration-ms="10948" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="VerificationofAddingMembersToBoard()[pri:0, instance:kloeckner.TestCases.VerificationOfAddingMembers@3c72f59f]" started-at="2019-11-30T17:02:50 GMT" name="VerificationofAddingMembersToBoard" finished-at="2019-11-30T17:03:17 GMT" duration-ms="27133" status="PASS">
+        <test-method signature="VerificationofAddingMembersToBoard()[pri:0, instance:kloeckner.TestCases.VerificationOfAddingMembers@d706f19]" started-at="2019-11-30T18:36:59 GMT" name="VerificationofAddingMembersToBoard" finished-at="2019-11-30T18:37:27 GMT" duration-ms="27688" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerificationofAddingMembersToBoard -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:kloeckner.TestCases.VerificationOfAddingMembers@3c72f59f]" started-at="2019-11-30T17:03:17 GMT" name="tearDown" finished-at="2019-11-30T17:03:28 GMT" duration-ms="11008" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:kloeckner.TestCases.VerificationOfAddingMembers@d706f19]" started-at="2019-11-30T18:37:27 GMT" name="tearDown" finished-at="2019-11-30T18:37:43 GMT" duration-ms="15395" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:kloeckner.TestCases.VerificationOfAddingMembers@3c72f59f]" started-at="2019-11-30T17:03:28 GMT" name="setUp" finished-at="2019-11-30T17:03:39 GMT" duration-ms="11065" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:kloeckner.TestCases.VerificationOfAddingMembers@d706f19]" started-at="2019-11-30T18:37:43 GMT" name="setUp" finished-at="2019-11-30T18:37:54 GMT" duration-ms="11031" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="VerificationofAddingMembersToCard()[pri:1, instance:kloeckner.TestCases.VerificationOfAddingMembers@3c72f59f]" started-at="2019-11-30T17:03:39 GMT" name="VerificationofAddingMembersToCard" finished-at="2019-11-30T17:04:12 GMT" duration-ms="32433" status="PASS">
+        <test-method signature="VerificationofAddingMembersToCard()[pri:1, instance:kloeckner.TestCases.VerificationOfAddingMembers@d706f19]" started-at="2019-11-30T18:37:54 GMT" name="VerificationofAddingMembersToCard" finished-at="2019-11-30T18:38:27 GMT" duration-ms="33841" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerificationofAddingMembersToCard -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:kloeckner.TestCases.VerificationOfAddingMembers@3c72f59f]" started-at="2019-11-30T17:04:12 GMT" name="tearDown" finished-at="2019-11-30T17:04:33 GMT" duration-ms="21760" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:kloeckner.TestCases.VerificationOfAddingMembers@d706f19]" started-at="2019-11-30T18:38:27 GMT" name="tearDown" finished-at="2019-11-30T18:38:38 GMT" duration-ms="10117" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:kloeckner.TestCases.VerificationOfAddingMembers@3c72f59f]" started-at="2019-11-30T17:04:33 GMT" name="setUp" finished-at="2019-11-30T17:04:45 GMT" duration-ms="11722" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:kloeckner.TestCases.VerificationOfAddingMembers@d706f19]" started-at="2019-11-30T18:38:38 GMT" name="setUp" finished-at="2019-11-30T18:38:49 GMT" duration-ms="11895" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="VerificationofAddedMemberatCardAndBoard()[pri:2, instance:kloeckner.TestCases.VerificationOfAddingMembers@3c72f59f]" started-at="2019-11-30T17:04:45 GMT" name="VerificationofAddedMemberatCardAndBoard" finished-at="2019-11-30T17:05:19 GMT" duration-ms="33493" status="PASS">
+        <test-method signature="VerificationofAddedMemberatCardAndBoard()[pri:2, instance:kloeckner.TestCases.VerificationOfAddingMembers@d706f19]" started-at="2019-11-30T18:38:49 GMT" name="VerificationofAddedMemberatCardAndBoard" finished-at="2019-11-30T18:39:23 GMT" duration-ms="33887" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerificationofAddedMemberatCardAndBoard -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:kloeckner.TestCases.VerificationOfAddingMembers@3c72f59f]" started-at="2019-11-30T17:05:19 GMT" name="tearDown" finished-at="2019-11-30T17:05:34 GMT" duration-ms="15453" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:kloeckner.TestCases.VerificationOfAddingMembers@d706f19]" started-at="2019-11-30T18:39:23 GMT" name="tearDown" finished-at="2019-11-30T18:39:32 GMT" duration-ms="9081" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- kloeckner.TestCases.VerificationOfAddingMembers -->
       <class name="kloeckner.TestCases.VerficationOfCardDetails">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:kloeckner.TestCases.VerficationOfCardDetails@ec756bd]" started-at="2019-11-30T17:00:20 GMT" name="setUp" finished-at="2019-11-30T17:00:37 GMT" duration-ms="17426" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:kloeckner.TestCases.VerficationOfCardDetails@65d6b83b]" started-at="2019-11-30T18:34:55 GMT" name="setUp" finished-at="2019-11-30T18:35:08 GMT" duration-ms="13440" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="VerificationofListNameOnCard()[pri:0, instance:kloeckner.TestCases.VerficationOfCardDetails@ec756bd]" started-at="2019-11-30T17:00:37 GMT" name="VerificationofListNameOnCard" finished-at="2019-11-30T17:01:19 GMT" duration-ms="41366" status="PASS">
+        <test-method signature="VerificationofListNameOnCard()[pri:0, instance:kloeckner.TestCases.VerficationOfCardDetails@65d6b83b]" started-at="2019-11-30T18:35:08 GMT" name="VerificationofListNameOnCard" finished-at="2019-11-30T18:35:38 GMT" duration-ms="30337" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerificationofListNameOnCard -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:kloeckner.TestCases.VerficationOfCardDetails@ec756bd]" started-at="2019-11-30T17:01:19 GMT" name="tearDown" finished-at="2019-11-30T17:01:36 GMT" duration-ms="17473" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:kloeckner.TestCases.VerficationOfCardDetails@65d6b83b]" started-at="2019-11-30T18:35:38 GMT" name="tearDown" finished-at="2019-11-30T18:35:54 GMT" duration-ms="15304" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:kloeckner.TestCases.VerficationOfCardDetails@ec756bd]" started-at="2019-11-30T17:01:36 GMT" name="setUp" finished-at="2019-11-30T17:01:48 GMT" duration-ms="11925" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:kloeckner.TestCases.VerficationOfCardDetails@65d6b83b]" started-at="2019-11-30T18:35:54 GMT" name="setUp" finished-at="2019-11-30T18:36:04 GMT" duration-ms="10527" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="VerificationofCardNameOnCard()[pri:1, instance:kloeckner.TestCases.VerficationOfCardDetails@ec756bd]" started-at="2019-11-30T17:01:48 GMT" name="VerificationofCardNameOnCard" finished-at="2019-11-30T17:02:20 GMT" duration-ms="32165" status="PASS">
+        <test-method signature="VerificationofCardNameOnCard()[pri:1, instance:kloeckner.TestCases.VerficationOfCardDetails@65d6b83b]" started-at="2019-11-30T18:36:04 GMT" name="VerificationofCardNameOnCard" finished-at="2019-11-30T18:36:34 GMT" duration-ms="30032" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerificationofCardNameOnCard -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:kloeckner.TestCases.VerficationOfCardDetails@ec756bd]" started-at="2019-11-30T17:02:20 GMT" name="tearDown" finished-at="2019-11-30T17:02:37 GMT" duration-ms="16881" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:kloeckner.TestCases.VerficationOfCardDetails@65d6b83b]" started-at="2019-11-30T18:36:34 GMT" name="tearDown" finished-at="2019-11-30T18:36:49 GMT" duration-ms="14386" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
